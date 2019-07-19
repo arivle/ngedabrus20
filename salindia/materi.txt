@@ -1,4 +1,4 @@
--judul
+-slide 0 : judul
 -slide 1 : pengenalan inkscape, tools, dan kotak dialog
 -slide 2 : elemen desain poster (warna, judul, konten, ilustrasi)
 -slide 3 : pemilihan font (jenis jenis font)
